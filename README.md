@@ -1,8 +1,8 @@
-# Portfolio Project1
+# Portfolio Project1 Charity foundation
 
 ## First page and viewport for different devices
 
-### The main structure is based on inspirational espressiones. It is small website, formed by four section; on the top there are three icons bar to navigate each section and scrolling bar to navigate
+### The main structure is based on inspirational espressiones. It is a small website, formed by four section; on the top there are three icons bar to navigate each section and scrolling bar to navigate. The title is "Charity foundation". It is made to give basic knowlage about the foundation and let contact the group.
 
 ![alt text](.devcontainer/assets/images/Ch-alldevices.png)
 
@@ -62,3 +62,11 @@ The live link can be found here -
 # content
 
 The content has taken from portafolio project 1 example.
+
+# Media
+
+The picture used on the home page is taken from this Open Source site;
+
+1. I couldn't find all images but first page image website link; (<https://www.google.com/search?q=charity+foundation&tbm=isch&hl=en&chips=q:charity+foundation>,g_1:banner:0OSgopOzdkk%3D,online_chips:charity+poster:jGbU8PH2pfc%3D,online_chips:voluntary+work:Tj_YE9LYT9w%3D,online_chips:illustration:ttp7mrtd4R4%3D&sa=X&ved=2ahUKEwjzj66YreiAAxUO2SoKHZZDDQsQ4lYoBnoECAEQSQ&biw=1519&bih=707)
+
+2. quote has taken from; <https://www.azquotes.com/quote/1339922>
