@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lato:wght@300&family=Oswald:wght@200&family=Roboto:wght@300&family=Shadows+Into+Light&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
