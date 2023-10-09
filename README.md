@@ -4,7 +4,7 @@
 
 ### The main structure is based on inspirational espressiones. It is a small website, formed by four section; on the top there are three icons bar to navigate each section and scrolling bar to navigate. The title is "Charity foundation". It is made to give basic knowlage about the foundation and let contact the group.
 
-![alt text](.devcontainer/assets/images/Ch-alldevices.png)
+![alt text](assets/images/Ch-alldevices.png)
 
 ## Representation of first section
 
@@ -20,7 +20,7 @@ First section contain;
              2. Contact us, on click it will represent the form to contact.
              3. Find us, four different website to choose.
 
-![alt text](.devcontainer/assets/images/Ch-part1.png)
+![alt text](assets/images/Ch-part1.png)
 
 
 ## Representation of second section
@@ -29,19 +29,19 @@ Second section contain;
 
 1. A brief description about the foundation
 
-![alt text](.devcontainer/assets/images/Ch-part2.png)
+![alt text](assets/images/Ch-part2.png)
 
 ## Third section
 
 1. This is a contact page where all of three element required;
 
-![alt text](.devcontainer/assets/images/Ch-part3.png)
+![alt text](assets/images/Ch-part3.png)
 
 ## Last section is footer
 
 There are four links to navigate and find us.
 
-![alt text](.devcontainer/assets/images/Ch-footer.png)
+![alt text](assets/images/Ch-footer.png)
 
 # Validator Testing
 
@@ -53,7 +53,7 @@ There are four links to navigate and find us.
 
 3. Accessibility
 
-![alt text](.devcontainer/assets/images/Overview.png)
+![alt text](assets/images/Overview.png)
 
 # deployment
 
