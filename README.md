@@ -57,7 +57,7 @@ There are four links to navigate and find us.
 
 # deployment
 
-The live link can be found here -
+The live link can be found here - <https://studentofcodeinstitute.github.io/foundation-group/>
 
 # content
 
