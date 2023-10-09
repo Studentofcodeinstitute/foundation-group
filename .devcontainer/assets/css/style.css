@@ -173,3 +173,31 @@ img {
     background-color: #1cb63d;
     color: #f5eaea;
 }
+
+footer {
+    background: blue;
+    font-size: 30px;
+    padding: 35px;
+    text-align: center;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #563535;
+}
+
+.contact-footer {
+    background: white;
+    margin-top: 10px;
+
+}
