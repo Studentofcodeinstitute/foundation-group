@@ -24,7 +24,8 @@ main {
 
 header {
     height: 50px;
-    background-color: rgb(29, 29, 230);
+
+    background-color: rgb(39, 39, 240);
 }
 
 #main-title {
@@ -40,6 +41,9 @@ header {
 
 }
 
+
+
+
 #option li {
     float: right;
     list-style-type: none;
@@ -49,12 +53,13 @@ header {
 
 #option a {
     text-decoration: none;
-    color: white;
+    color: azure;
 }
 
 #option a:hover {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid azure;
 }
+
 
 #image {
     float: left;
@@ -96,6 +101,82 @@ img {
 
 }
 
+footer {
+    background: blue;
+    font-size: 30px;
+    padding: 35px;
+    text-align: center;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #563535;
+}
+
+.contact-footer {
+    background: white;
+    margin-top: 10px;
+
+}
+
+.whole-form {
+    background-position: center;
+    height: 600px;
+}
+
+.singup-form {
+    margin: 150px 0 0 0;
+    color: #fff;
+    background-color: rgba(58, 8, 8, 0.6);
+    max-width: 400px;
+    position: absolute;
+    left: 35%;
+    padding: 30px;
+}
+
+.changeP {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #2e10c3;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #1cb63d;
+    color: #f5eaea;
+}
+
 .aboutus {
     background-color: #202521;
     color: #f5eaea;
@@ -123,82 +204,6 @@ img {
     overflow: hidden;
     margin-top: 2%;
 
-
-}
-
-.whole-form {
-    background-position: center;
-    height: 600px;
-}
-
-.singup-form {
-    margin: 150px 0 0 0;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 35%;
-    padding: 30px;
-}
-
-.changeP {
-    color: #053257;
-    margin-bottom: 10px;
-}
-
-.text-input {
-    background: transparent;
-    color: #fafafa;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-}
-
-
-
-.join-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
-    display: block;
-}
-
-.join-button:hover {
-    background-color: #1cb63d;
-    color: #f5eaea;
-}
-
-footer {
-    background: blue;
-    font-size: 30px;
-    padding: 35px;
-    text-align: center;
-}
-
-.social-networks {
-    text-align: center;
-}
-
-.social-networks>li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 160%;
-    margin: 1%;
-    padding: 5%;
-    color: #563535;
-}
-
-.contact-footer {
-    background: white;
-    margin-top: 10px;
 
 }
 
